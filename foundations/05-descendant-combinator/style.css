@@ -1,0 +1,14 @@
+.container .text{
+    font-size: 20px;
+    background-color: rgb(255, 204, 0);
+    color: rgb(255, 0, 0);
+    text-align: center;
+}
+
+.text{
+    background-color: aquamarine;
+}
+
+.container{
+    background-color: blueviolet;
+}
